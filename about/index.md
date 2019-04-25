@@ -20,6 +20,8 @@ comments: false
 * 3D Graphics Programming (DirectX 11, HLSL)
 * Windows, Mac OS + hardware IT skills
 
+
+
 ## Education
 
 <b>B.S., Computer Game Development (Gameplay Programming Concentration), June 2018</b>
@@ -28,7 +30,6 @@ comments: false
 * DePaul Presidential Award Scholarship 2014-2018
 
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
 ## Relevant Coursework
 

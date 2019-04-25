@@ -1,37 +1,52 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about, about me, alex, alex soto, programmer, software engineer]
+date: 2019-04-25
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>Software engineer, game programmer</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Skills
+* Object Oriented Programming
+* C#, C++, Python
+* 3D Linear Algebra/Geometry
+* AR/VR app development (ARKit, HTC Vive, Oculus)
+* Android/iOS app development 
+* Unity, Unreal Engine 4, GameMaker
+* Perforce, Git, Github
+* 3D Game Engine Programming
+* 3D Graphics Programming (DirectX 11, HLSL)
+* Windows, Mac OS + hardware IT skills
 
-## Preview
+## Education
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+<b>B.S., Computer Game Development (Gameplay Programming Concentration), June 2018</b>
+* GPA: 3.85 (Summa Cum Laude)
+* DePaul Dean’s List Autumn 2014 – Winter 2017, Autumn 2017 - Spring 2018
+* DePaul Presidential Award Scholarship 2014-2018
+
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
+## Relevant Coursework
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+* Object Oriented Programming
+* Rendering/Graphics Programming
+* 3D Game Engine Programming I/II
+* AI Game Programming
+* Computer Science I/II
+* C++ for Programmers
+* Data Structures in C++
+* Optimized C++
+* Computer Systems I
+* Discrete Mathematics
+* Applied 3D Geometry
+* Intro + Advanced AR Game Dev
+* Intro + Advanced VR Game Dev
+* Practical Scripting for Games
+* Fundamentals of Game Design
+* Solo Game Development
+* Game Development Capstone Project
+

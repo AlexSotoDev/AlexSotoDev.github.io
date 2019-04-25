@@ -6,7 +6,7 @@ date: 2019-04-25
 comments: false
 ---
     
-<center><b>Software Engineer, Game Programmer</b</center>
+<center><b>Software Engineer, Game Programmer</b></center>
 
 ## Skills
 * Object Oriented Programming

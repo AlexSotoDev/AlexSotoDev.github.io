@@ -10,7 +10,9 @@ tag:
 - cosmews
 - ARKit
 comments: false
+feature: https://i.imgur.com/VDsI1u1.png
 ---
+
 
 Cosmews is an ARKit game where players scan their enivronment to discover and feed treats to cosmic cats popping into our world, leveraging the unique affordance of high fidelity spatial tracking realized through the latest AR mobile platforms. 
 The project was initially developed by students and professor Brian Schrank in the Virtual and Augmented Design Lab at DePaul University from January 2017 - June 2019, in which I was the lead programmer and lead developer.

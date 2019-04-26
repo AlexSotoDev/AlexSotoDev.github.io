@@ -12,10 +12,9 @@ tag:
 comments: false
 ---
 
-    
-<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
-     
- I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
+Cosmews is an ARKit game where players scan their enivronment to discover and feed treats to cosmic cats popping into our world, leveraging the unique affordance of high fidelity spatial tracking realized through the latest AR mobile platforms. 
+The project was initially developed by students and professor Brian Schrank in the Virtual and Augmented Design Lab at DePaul University from January 2017 - June 2019, in which I was the lead programmer and lead developer.
+I researched, discussed and implemented core systems regarding ARKit API and its gameplay integration using Unity, C#, and the ARKit plugin.
+Additionally, I led game design and implementation of central mechanics and systems: main gameplay loop, feeding mechanics, level system generation + design, low level system classes (game state, input, camera, AR session/planes), cat growth behavior.
+After the class sequence completed, I and a few other developers (along with Professor Brian Schrank) continued development  and I am continually working on the project in order to publish it in the App Store in the coming months (hopefully Spring 2019).
 
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
-      

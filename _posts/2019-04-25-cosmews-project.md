@@ -23,6 +23,7 @@ Additionally, I led game design and implementation of central mechanics and syst
 * feeding mechanics 
 * level system generation + design
 * low level system classes (game state, input, camera, AR session/planes), cat growth behavior
+
 After the class sequence completed, I and a few other developers (along with Professor Brian Schrank) continued development and I am continually working on the project in order to publish it in the App Store in the coming months (hopefully Spring 2019).
 
 ##Links

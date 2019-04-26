@@ -1,19 +1,18 @@
 ---
 layout: post
-title:  "A Post with a Video"
-date:   2016-03-15
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+title:  "Cosmews Trailer"
+date:   2019-04-25
+excerpt: "Showing off our Fall 2018 reveal trailer"
 tag:
-- sample
-- post
-- video
-comments: true
+- Cosmews
+- trailer
+- ARKit
+- Game
+comments: false
 ---
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
+<iframe width="893" height="645" src="https://www.youtube.com/embed/7oSJRtBZEF0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
-
-Not sure if this only effects Kramdown or if it's an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the `<iframe>` tags and remove `allowfullscreen`. Example below:
+Below is a trailer with captured gameplay shot by yours truly and edited by programmer/technical artist Eddie Yanez in Fall 2018. This trailer was presented to Apple Worldwide Developer Relations head Paul Ramsbottom at the DePaul VAD (Virtual and Augmented Design) Lab.
 
 {% highlight html %}
 <iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>

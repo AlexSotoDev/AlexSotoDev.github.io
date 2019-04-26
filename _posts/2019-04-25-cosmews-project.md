@@ -33,4 +33,3 @@ After the class sequence completed, I and a few other developers (along with Pro
 * [Trailer](https://alexsotodev.github.io//video-post/)
 * [Code Snippets](https://github.com/AlexSotoDev/CosmewsCodeSnippets) showing off some code snippets and editor tools
 
----

@@ -12,12 +12,12 @@ comments: false
 * Object Oriented Programming
 * C#, C++, Python
 * 3D Linear Algebra/Geometry
-* AR/VR app development (ARKit, HTC Vive, Oculus)
-* Android/iOS app development 
+* [AR](https://alexsotodev.github.io/cosmews-project/) + [VR](https://alexsotodev.github.io/fight-cloud/) app development (ARKit, HTC Vive, Oculus, Hololens)
+* [Android](https://alexsotodev.github.io/over-easy-project/)/[iOS](https://alexsotodev.github.io/cosmews-project/) app development 
 * Unity, Unreal Engine 4, GameMaker
 * Perforce, Git, Github
-* 3D Game Engine Programming
-* 3D Graphics Programming (DirectX 11, HLSL)
+* [3D Game Engine Programming](https://github.com/AlexSotoDev/CryingEngine)
+* [3D Graphics Programming (DirectX 11, HLSL)](https://github.com/AlexSotoDev/DX11Renderer3DGraphicsEngine)
 * Windows, Mac OS + hardware IT skills
 
 

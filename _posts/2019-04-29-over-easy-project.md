@@ -29,6 +29,6 @@ Some of my contributions and responsibilities:
 
 ## Links
 
-* [Play Store App Link](https://play.google.com/store/apps/details?id=com.TheCoop.OverEasy)
+* [Play Store Page](https://play.google.com/store/apps/details?id=com.TheCoop.OverEasy)
 * [Short Gameplay Video](https://youtu.be/nx0DtVxHwVw)
 

@@ -12,7 +12,7 @@ tag:
 - mobile
 - Android
 comments: false
-feature: https://i.imgur.com/b1N5C2M.png
+feature: https://i.imgur.com/urkyf9r.png
 ---
 
 Over Easy is a 3D mobile platformer where players navigate a diverse set of levels and environments using their device's gyroscope to roll/tilt an egg to safety. It was developed by myself and three other students (Eddie Yanez, Sean Dirr, Shola John) at DePaul for our Capstone Project from January 2018 - June 2018. 

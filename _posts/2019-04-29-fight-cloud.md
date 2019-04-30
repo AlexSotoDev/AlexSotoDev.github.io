@@ -21,7 +21,7 @@ Fight Cloud is a cartoon themed VR game for HTC Vive in which players traverse a
 
 ## Role
 
-I served as a project lead. My lead programmer role involved managing a team of programmers and coordinating with art and design leads/teams.
+I served as the project's lead programmer. My role involved managing a team of programmers and coordinating with art and design leads/teams.
 Some of my contributions and responsibilities: 
 * Planned weekly sprints of programming tasks and assigned roles.
 * Coordinated status check-ins over Slack, in-person advisory sessions, and code reviews with programmers weekly.

@@ -2,13 +2,15 @@
 layout: post
 title:  "Over Easy"
 date:   2019-04-29
-excerpt: "An egg themed mobile platformer using gyroscope"
+excerpt: "An egg themed mobile platformer using tilt controls"
 project: true
 tag:
 - project 
 - game
 - Over Easy
 - Egg
+- mobile
+- Android
 comments: false
 feature: https://i.imgur.com/b1N5C2M.png
 ---

@@ -24,7 +24,7 @@ comments: false
 
 ## Education
 
-<b>B.S., Computer Game Development (Gameplay Programming Concentration), June 2018</b>
+<b>DePaul University - B.S. Computer Game Development (Gameplay Programming Concentration), September 2014 - June 2018</b>
 * GPA: 3.85 (Summa Cum Laude)
 * DePaul Dean’s List Autumn 2014 – Winter 2017, Autumn 2017 - Spring 2018
 * DePaul Presidential Award Scholarship 2014-2018
